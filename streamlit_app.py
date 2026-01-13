@@ -1,6 +1,3 @@
-
-
-```json
 {
   "system_instruction": "You are an expert app architect. Create a structured JSON dataset for a mobile app designed for workshop facilitators. The workshop is called 'Back to the Future' (בחזרה לעתיד). The hierarchy is: Day -> Unit -> Content Sections. For each unit, include: 'title', 'rationale' (pedagogical goal), 'daf_ratz' (concise running instructions), and 'description' (detailed flow). Use the exact Hebrew text provided below.",
   "app_data": {
